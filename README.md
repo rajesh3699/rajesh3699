@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajesh Nagula</h1>
-I'm an undergrad in Electronics & Communication Engineering in my penultimate year at [VNIT](http://vnit.ac.in/) Roboticist, passionate about the way drones fly.</h3>
+<h3>I'm an undergrad in Electronics & Communication Engineering in my penultimate year at VNIT, Nagpur, India, Roboticist, passionate about the way drones fly.</h3>
 
 - 🔭 I am an active member of [IvLabs](https://www.ivlabs.in/), an AI and Robotics community. Check out some of the projects of our growing community [IvLabs](https://github.com/IvLabs).
 
