@@ -9,7 +9,7 @@ I'm an undergrad in Electronics & Communication Engineering in my penultimate ye
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajesh nagula" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw1Iz_7AyngNmUHtgRJGUCc-&ust=1609316177383000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjL0Yrg8u0CFQAAAAAdAAAAABAD" alt="rajesh nagula" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajesh nagula" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="rajesh nagula" height="30" width="40" /></a>
   <a href="https://scholar.google.com/citations?hl=en&user=0KUeB8wAAAAJ&view_op=list_works&gmla=AJsN-F6q4taplelAq6hd31lEkk0ZHnIsYKDwqqt5NhQd9dMeB_ItxrlwJgBoJM7qPcwgfDn0fAc2fMyhrj6wWiT4DP6_6cuJ8jUJb8UamD5tFPVHufc1IJxD5i4YyP-0D8XDrU1TLYWuHWUwRe1w6_iM6zv3zPncyg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" alt="rajesh nagula" height="30" width="40" /></a>
 </p>
 
