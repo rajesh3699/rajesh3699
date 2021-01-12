@@ -18,10 +18,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" alt="android" width="40" height="40"/> </a> 
- <a href="https://www.firebase.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="android" width="40" height="40"/> </a> 
+ <a href="https://www.firebase.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
+ <a href="http://opencv.org/" target="_blank"> <img src="https://cdn.svgporn.com/logos/opencv.svg" alt="opencv" width="40" height="40"/> </a>
 
-
-
+ <a href="https://in.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 
 
 
