@@ -11,10 +11,21 @@
 <p align="left">
 <a href="https://linkedin.com/in/rajesh nagula" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="rajesh nagula" height="30" width="40" /></a>
   <a href="https://scholar.google.com/citations?hl=en&user=0KUeB8wAAAAJ&view_op=list_works&gmla=AJsN-F6q4taplelAq6hd31lEkk0ZHnIsYKDwqqt5NhQd9dMeB_ItxrlwJgBoJM7qPcwgfDn0fAc2fMyhrj6wWiT4DP6_6cuJ8jUJb8UamD5tFPVHufc1IJxD5i4YyP-0D8XDrU1TLYWuHWUwRe1w6_iM6zv3zPncyg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" alt="rajesh nagula" height="30" width="40" /></a>
+  <a target="_blank" href="mailto:rajeshn0811@gmail@gmail.com">
+  <img align="left" alt="Gmail" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" alt="android" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" alt="android" width="40" height="40"/> </a> 
+ <a href="https://www.firebase.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="android" width="40" height="40"/> </a> 
+
+
+
+
+
+
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh3699&show_icons=true&locale=en&layout=compact&theme=dark" alt="rajesh3699" /></p>
 
