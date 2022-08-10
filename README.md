@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rajesh Nagula</h1>
-<h3>I'm an undergrad in Electronics & Communication Engineering in my penultimate year at VNIT, Nagpur, India.</h3>
-  <h3>Also a Roboticist, passionate about the way drones fly.</h3>
+<h4>I'm a Robotics Enthusiast,  passionate about the way drones fly. I am currently pursuing my masters at NYU, Tandon School of Engineering, NY Brooklyn</h4>
+
 
 - 🔭 I am an active member of [IvLabs](https://www.ivlabs.in/), an AI and Robotics community. Check out some of the projects of our growing community [IvLabs](https://github.com/IvLabs).
 
 - 😄 I’m currently working on localizing a UAV in outdoor, indoor along with the transition(outdoor -> indoor) and [Robust Quadcopter Control](https://github.com/IvLabs/robust_quadcopter_control).
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1HBD6CyftdHAx2VhF83MxVihi5Fu2TmBG/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1izOK3j0-zjgO7xRoysA7huOEnRwqwg6G/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
