@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajesh nagula" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="rajesh nagula" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/rajesh nagula](https://www.linkedin.com/in/rajesh-nagula-831984167/)" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="rajesh nagula" height="30" width="40" /></a>
   <a href="https://scholar.google.com/citations?hl=en&user=0KUeB8wAAAAJ&view_op=list_works&gmla=AJsN-F6q4taplelAq6hd31lEkk0ZHnIsYKDwqqt5NhQd9dMeB_ItxrlwJgBoJM7qPcwgfDn0fAc2fMyhrj6wWiT4DP6_6cuJ8jUJb8UamD5tFPVHufc1IJxD5i4YyP-0D8XDrU1TLYWuHWUwRe1w6_iM6zv3zPncyg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" alt="rajesh nagula" height="30" width="40" /></a>
   <a target="_blank" href="mailto:rajeshn0811@gmail@gmail.com">
   <img align="left" alt="Gmail" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" />
