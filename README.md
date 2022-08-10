@@ -2,7 +2,7 @@
 <h4>I'm a Robotics Enthusiast,  passionate about the way drones fly. I am currently pursuing my masters at NYU, Tandon School of Engineering, NY Brooklyn</h4>
 
 - 😄 I’m currently exploring the avid field of drone automation.
-- 
+
 - 🔭 I was an active member of [IvLabs](https://www.ivlabs.in/), an AI and Robotics community. Check out some of the projects of our growing community [IvLabs](https://github.com/IvLabs).
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1izOK3j0-zjgO7xRoysA7huOEnRwqwg6G/view?usp=sharing)
